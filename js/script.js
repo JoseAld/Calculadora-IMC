@@ -35,7 +35,7 @@ form.addEventListener('submit', function(event) {
         }
 
         else if (bmi > 35 && bmi <= 40) {
-            description = "THAIS CARLA????";
+            description = "PROCURE AJUDA PROFISSIONAL";
         }
 
         else {
